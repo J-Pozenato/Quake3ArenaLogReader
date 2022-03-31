@@ -1,0 +1,15 @@
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.csproj.AssemblyReference.cache
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.AssemblyInfoInputs.cache
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.AssemblyInfo.cs
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.csproj.CoreCompileInputs.cache
+F:\Csharp\LearningC#\ProgQuake\bin\Debug\net6.0\ProgQuake.exe
+F:\Csharp\LearningC#\ProgQuake\bin\Debug\net6.0\ProgQuake.deps.json
+F:\Csharp\LearningC#\ProgQuake\bin\Debug\net6.0\ProgQuake.runtimeconfig.json
+F:\Csharp\LearningC#\ProgQuake\bin\Debug\net6.0\ProgQuake.dll
+F:\Csharp\LearningC#\ProgQuake\bin\Debug\net6.0\ProgQuake.pdb
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.dll
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\refint\ProgQuake.dll
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.pdb
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ProgQuake.genruntimeconfig.cache
+F:\Csharp\LearningC#\ProgQuake\obj\Debug\net6.0\ref\ProgQuake.dll
