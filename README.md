@@ -2,40 +2,4 @@
 
 C# program that reads a txt file and parse it to json with the following format
 
-[
-  {
-    "game": 1,
-    "status": {
-      "total_kills": 0,
-      "players": [
-        {
-          "id": 1,
-          "nome": "Isgalamido",
-          "kills": 0,
-          "old_names": []
-        }
-      ]
-    }
-  },
-  {
-    "game": 2,
-    "status": {
-      "total_kills": 11,
-      "players": [
-        {
-          "id": 1,
-          "nome": "Isgalamido",
-          "kills": -5,
-          "old_names": []
-        },
-        {
-          "id": 2,
-          "nome": "Mocinha",
-          "kills": 0,
-          "old_names": [
-            "Dono da Bola"
-          ]
-        }
-      ]
-    }
-  },
+![image](https://user-images.githubusercontent.com/99025922/161045548-5320a2f2-53d5-4323-af18-03aa1e74b50b.png)
